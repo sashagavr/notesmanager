@@ -1,0 +1,12 @@
+D:\Gavrylchenko\Proj-09-03-2017\bin\Debug\Proj-09-03-2017.exe.config
+D:\Gavrylchenko\Proj-09-03-2017\bin\Debug\Proj-09-03-2017.exe
+D:\Gavrylchenko\Proj-09-03-2017\bin\Debug\Proj-09-03-2017.pdb
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj-09-03-2017.csprojResolveAssemblyReference.cache
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj_09_03_2017.Form1.resources
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj_09_03_2017.Form2.resources
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj_09_03_2017.Form3.resources
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj_09_03_2017.Form4.resources
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj_09_03_2017.Properties.Resources.resources
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj-09-03-2017.csproj.GenerateResource.Cache
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj-09-03-2017.exe
+D:\Gavrylchenko\Proj-09-03-2017\obj\Debug\Proj-09-03-2017.pdb
