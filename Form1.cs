@@ -27,7 +27,7 @@ namespace Proj_09_03_2017
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            MessageBox.Show("TEST");
         }
     }
 }
