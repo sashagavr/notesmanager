@@ -24,5 +24,10 @@ namespace Proj_09_03_2017
             f2.Show();
             this.Hide();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
